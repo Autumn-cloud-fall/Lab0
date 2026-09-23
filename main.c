@@ -2,7 +2,6 @@
 
 int main()
 {   
-    // @TODO: print a sentence you want.
     int a,b;
     printf("Hello, world!\n");
     printf("Enter two numbers: ");
